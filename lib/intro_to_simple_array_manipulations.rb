@@ -3,7 +3,7 @@ def using_concat (array1, array2)
 end
 
 def using_insert(array, another_language)
-  array.insert(element.to_i)
+  array.insert(another_language.to_i)
 end
 
 def using_uniq(array)
